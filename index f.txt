@@ -1,0 +1,71 @@
+<section class="grid">
+  <div class="project">
+    <img src="PORTFOLIO (1).png" alt="Chatbot Lead Capture & CRM Automation">
+    <h3>Chatbot Lead Capture & CRM Automation</h3>
+    <p>Automated lead capture via chatbot integrated with CRM.</p>
+    <ul>
+      <li>CRM Integration</li>
+      <li>Chatbot Automation</li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <img src="PORTFOLIO (2).png" alt="Airtable CRM & Email Automation">
+    <h3>Airtable CRM & Email Automation</h3>
+    <p>Custom Airtable CRM with automated email sequences.</p>
+    <ul>
+      <li>Airtable</li>
+      <li>Email Automation</li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <img src="PORTFOLIO (3).png" alt="Email Drip Campaign Automation">
+    <h3>Email Drip Campaign Automation</h3>
+    <p>Automated drip campaigns for nurturing leads.</p>
+    <ul>
+      <li>Email Marketing</li>
+      <li>Workflow Automation</li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <img src="PORTFOLIO (4).png" alt="Job Scouting Slack Bot">
+    <h3>Job Scouting Slack Bot</h3>
+    <p>Slack bot that scouts job postings and alerts users.</p>
+    <ul>
+      <li>Slack Integration</li>
+      <li>Job Automation</li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <img src="PORTFOLIO (5).png" alt="E-commerce Order Automation">
+    <h3>E-commerce Order Automation</h3>
+    <p>Automated order processing and notifications for online store.</p>
+    <ul>
+      <li>E-commerce</li>
+      <li>Order Workflow</li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <img src="PORTFOLIO (6).png" alt="Social Media Content Scheduler">
+    <h3>Social Media Content Scheduler</h3>
+    <p>Automated scheduling of posts across multiple platforms.</p>
+    <ul>
+      <li>Social Media</li>
+      <li>Scheduling Automation</li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <img src="PORTFOLIO (7).png" alt="Data Entry Automation">
+    <h3>Data Entry Automation</h3>
+    <p>Automated data entry workflows reducing manual effort.</p>
+    <ul>
+      <li>Data Automation</li>
+      <li>Efficiency Tools</li>
+    </ul>
+  </div>
+</section>
